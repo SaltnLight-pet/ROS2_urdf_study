@@ -1,9 +1,0 @@
-/home/pet/ROS2_study/urdf_study/build/urdf_study/CMakeFiles/uninstall.dir
-/home/pet/ROS2_study/urdf_study/build/urdf_study/CMakeFiles/urdf_study_uninstall.dir
-/home/pet/ROS2_study/urdf_study/build/urdf_study/CMakeFiles/test.dir
-/home/pet/ROS2_study/urdf_study/build/urdf_study/CMakeFiles/edit_cache.dir
-/home/pet/ROS2_study/urdf_study/build/urdf_study/CMakeFiles/rebuild_cache.dir
-/home/pet/ROS2_study/urdf_study/build/urdf_study/CMakeFiles/list_install_components.dir
-/home/pet/ROS2_study/urdf_study/build/urdf_study/CMakeFiles/install.dir
-/home/pet/ROS2_study/urdf_study/build/urdf_study/CMakeFiles/install/local.dir
-/home/pet/ROS2_study/urdf_study/build/urdf_study/CMakeFiles/install/strip.dir
