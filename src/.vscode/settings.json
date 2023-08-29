@@ -1,0 +1,9 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/opt/ros/galactic/lib/python3.8/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/opt/ros/galactic/lib/python3.8/site-packages"
+    ],
+    "cmake.sourceDirectory": "/home/pet/ROS2_study/urdf_study/src/urdf_study"
+}

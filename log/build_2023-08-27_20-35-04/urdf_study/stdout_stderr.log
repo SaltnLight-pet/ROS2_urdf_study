@@ -1,0 +1,45 @@
+-- Found ament_cmake: 1.1.6 (/opt/ros/galactic/share/ament_cmake/cmake)
+[33mCMake Warning (dev) at /opt/ros/galactic/share/ament_cmake_core/cmake/core/python.cmake:22 (find_package):
+  Policy CMP0148 is not set: The FindPythonInterp and FindPythonLibs modules
+  are removed.  Run "cmake --help-policy CMP0148" for policy details.  Use
+  the cmake_policy command to set the policy and suppress this warning.
+
+Call Stack (most recent call first):
+  /opt/ros/galactic/share/ament_cmake_core/cmake/core/all.cmake:53 (include)
+  /opt/ros/galactic/share/ament_cmake_core/cmake/ament_cmake_core-extras.cmake:17 (include)
+  /opt/ros/galactic/share/ament_cmake_core/cmake/ament_cmake_coreConfig.cmake:41 (include)
+  /opt/ros/galactic/share/ament_cmake/cmake/ament_cmake_export_dependencies-extras.cmake:15 (find_package)
+  /opt/ros/galactic/share/ament_cmake/cmake/ament_cmakeConfig.cmake:41 (include)
+  CMakeLists.txt:14 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+[0m
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Found ament_lint_auto: 0.10.7 (/opt/ros/galactic/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/pet/ROS2_study/urdf_study/build/urdf_study
+-- Install configuration: ""
+-- Installing: /home/pet/ROS2_study/urdf_study/install/urdf_study/share/urdf_study/launch
+-- Installing: /home/pet/ROS2_study/urdf_study/install/urdf_study/share/urdf_study/launch/simple_display.launch.py
+-- Installing: /home/pet/ROS2_study/urdf_study/install/urdf_study/share/urdf_study/urdf
+-- Installing: /home/pet/ROS2_study/urdf_study/install/urdf_study/share/urdf_study/urdf/myfirst.urdf
+-- Up-to-date: /home/pet/ROS2_study/urdf_study/install/urdf_study/share/ament_index/resource_index/package_run_dependencies/urdf_study
+-- Up-to-date: /home/pet/ROS2_study/urdf_study/install/urdf_study/share/ament_index/resource_index/parent_prefix_path/urdf_study
+-- Up-to-date: /home/pet/ROS2_study/urdf_study/install/urdf_study/share/urdf_study/environment/ament_prefix_path.sh
+-- Installing: /home/pet/ROS2_study/urdf_study/install/urdf_study/share/urdf_study/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/pet/ROS2_study/urdf_study/install/urdf_study/share/urdf_study/environment/path.sh
+-- Installing: /home/pet/ROS2_study/urdf_study/install/urdf_study/share/urdf_study/environment/path.dsv
+-- Up-to-date: /home/pet/ROS2_study/urdf_study/install/urdf_study/share/urdf_study/local_setup.bash
+-- Up-to-date: /home/pet/ROS2_study/urdf_study/install/urdf_study/share/urdf_study/local_setup.sh
+-- Up-to-date: /home/pet/ROS2_study/urdf_study/install/urdf_study/share/urdf_study/local_setup.zsh
+-- Installing: /home/pet/ROS2_study/urdf_study/install/urdf_study/share/urdf_study/local_setup.dsv
+-- Installing: /home/pet/ROS2_study/urdf_study/install/urdf_study/share/urdf_study/package.dsv
+-- Up-to-date: /home/pet/ROS2_study/urdf_study/install/urdf_study/share/ament_index/resource_index/packages/urdf_study
+-- Up-to-date: /home/pet/ROS2_study/urdf_study/install/urdf_study/share/urdf_study/cmake/urdf_studyConfig.cmake
+-- Up-to-date: /home/pet/ROS2_study/urdf_study/install/urdf_study/share/urdf_study/cmake/urdf_studyConfig-version.cmake
+-- Up-to-date: /home/pet/ROS2_study/urdf_study/install/urdf_study/share/urdf_study/package.xml
