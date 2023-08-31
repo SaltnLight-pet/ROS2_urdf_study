@@ -1,6 +1,6 @@
 # ROS2_urdf_study
 
-## 개요
+## 소개
 - URDF(Unified Robot Description Format, 로봇 기술용 통일 포맷)란?
 -   로봇을 구현하는데 사용되며, Navigation, Manipulation, Remote Control 등이 가능하며, 기본적으로 XML문법을 통해 만들어짐.
 - 위의 코드는 URDF에 대해 공부하며 원통형 구조물 두개를 연결하여 pan, tilt가 가능하도록 구현한 코드입니다.
